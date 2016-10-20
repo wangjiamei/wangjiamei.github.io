@@ -1,0 +1,484 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+  background: #999; }
+
+ul {
+  list-style: none; }
+
+.pageCon {
+  width: 100%;
+  height: 100%; }
+
+.pageOne {
+  background: url("img/8.jpg") no-repeat center;
+  background-size: cover; }
+
+.centerHead {
+  position: absolute;
+  width: 60%;
+  top: 10%;
+  left: 20%;
+  visibility: hidden; }
+
+.centerImg {
+  position: absolute;
+  width: 60%;
+  top: 10%;
+  left: 20%;
+  visibility: hidden; }
+
+.centerImgY {
+  position: absolute;
+  width: 65%;
+  top: 8.5%;
+  left: 17%;
+  visibility: hidden; }
+
+.centerImgE {
+  position: absolute;
+  width: 75%;
+  top: 6%;
+  left: 12.5%;
+  visibility: hidden; }
+
+.oneName {
+  position: absolute;
+  width: 65%;
+  top: 66%;
+  left: 20%; }
+
+.oneY {
+  color: #fff;
+  font-size: 50px; }
+
+.oneSi {
+  position: absolute;
+  color: #fff;
+  width: 70%;
+  left: 16%;
+  top: 50%; }
+
+#yi {
+  font-size: 25px;
+  color: paleturquoise;
+  font-weight: bold;
+  margin-left: 26%; }
+
+#er {
+  font-size: 39px;
+  color: paleturquoise;
+  font-weight: bold;
+  margin-top: -4%; }
+
+.pageTwo {
+  background: url("img/5.jpg") no-repeat center;
+  background-size: cover; }
+
+.twoYi {
+  position: absolute;
+  width: 40%;
+  height: 30%;
+  background: red;
+  border-radius: 50%;
+  left: 56%;
+  top: 2%;
+  background: url("img/11.jpg") no-repeat center;
+  background-size: cover; }
+
+.twoEr {
+  position: absolute;
+  width: 50%;
+  font-size: 25px;
+  left: 5%;
+  top: 5%;
+  color: plum; }
+
+.twoSan {
+  position: absolute;
+  width: 40%;
+  height: 8%;
+  left: 8%;
+  top: 10%; }
+
+.twoSanYi {
+  font-size: 25px; }
+
+.twoSanEr {
+  font-size: 20px; }
+
+.twoSi {
+  position: absolute;
+  width: 50%;
+  height: 8%;
+  left: 8%;
+  top: 17%; }
+
+.twoSiYi {
+  font-size: 25px; }
+
+.twoSiEr {
+  font-size: 20px; }
+
+.twoWu {
+  position: absolute;
+  width: 50%;
+  height: 8%;
+  left: 8%;
+  top: 25%; }
+
+.twoWuYi {
+  font-size: 25px; }
+
+.twoWuEr {
+  font-size: 20px; }
+
+.twoLiu {
+  position: absolute;
+  width: 60%;
+  height: 8%;
+  left: 8%;
+  top: 32%; }
+
+.twoLiuYi {
+  font-size: 25px; }
+
+.twoLiuEr {
+  font-size: 20px; }
+
+.twoQi {
+  position: absolute;
+  width: 100%;
+  height: 35%;
+  top: 65%; }
+
+.twoQiYi {
+  position: absolute;
+  width: 40%;
+  top: 20%; }
+
+.twoQiEr {
+  position: absolute;
+  left: 35%;
+  width: 66%; }
+
+.twoBa {
+  position: absolute;
+  width: 60%;
+  height: 8%;
+  left: 8%;
+  top: 39%; }
+
+.twoBaYi {
+  font-size: 25px; }
+
+.twoBaEr {
+  font-size: 20px; }
+
+.twoJiu {
+  position: absolute;
+  width: 76%;
+  height: 8%;
+  left: 8%;
+  top: 46%; }
+
+.twoJiuYi {
+  font-size: 25px; }
+
+.twoJiuEr {
+  font-size: 20px; }
+
+.twoShi {
+  position: absolute;
+  width: 76%;
+  height: 5%;
+  left: 8%;
+  top: 53%; }
+
+.twoShiYi {
+  font-size: 25px; }
+
+.twoShiEr {
+  font-size: 20px; }
+
+.twoEle {
+  position: absolute;
+  width: 76%;
+  height: 8%;
+  left: 8%;
+  top: 60%; }
+
+.twoShiYiYi {
+  font-size: 25px; }
+
+.twoShiYiEr {
+  font-size: 20px; }
+
+.pageThree {
+  background: url("img/5.jpg") no-repeat center;
+  background-size: cover; }
+  .pageThree #pageThreeY {
+    position: absolute;
+    width: 3%;
+    height: 90%;
+    left: 47%;
+    top: 10%;
+    background-color: green; }
+  .pageThree #pageThreeE {
+    position: absolute;
+    width: 40%;
+    height: 3%;
+    left: 7%;
+    top: 40%;
+    background-color: green; }
+  .pageThree #pageThreeS {
+    position: absolute;
+    width: 40%;
+    height: 3%;
+    left: 50%;
+    top: 60%;
+    background-color: green; }
+  .pageThree #pageThreeW {
+    position: absolute;
+    width: 40%;
+    height: 3%;
+    left: 7%;
+    top: 88%;
+    background-color: green; }
+  .pageThree #pageThreeL {
+    position: absolute;
+    width: 40%;
+    height: 3%;
+    left: 50%;
+    top: 20%;
+    background-color: green; }
+
+.threeOne {
+  width: 40%;
+  height: 10%;
+  color: deeppink;
+  font-size: 30px;
+  position: absolute;
+  top: 5%;
+  left: 30%; }
+
+.threeImgY {
+  width: 30%;
+  height: 20%;
+  position: absolute;
+  top: 30%;
+  left: 72%; }
+
+.threeImgE {
+  width: 40%;
+  height: 20%;
+  position: absolute;
+  top: 60%;
+  left: 2%; }
+
+.threeImgS {
+  width: 50%;
+  height: 30%;
+  position: absolute;
+  top: 70%;
+  left: 52%; }
+
+.threeEr {
+  width: 40%;
+  height: 10%;
+  position: absolute;
+  top: 12%;
+  left: 50%;
+  color: green; }
+
+.threeSan {
+  width: 40%;
+  height: 10%;
+  position: absolute;
+  top: 36%;
+  left: 15%;
+  color: green; }
+
+.threeSi {
+  width: 40%;
+  height: 10%;
+  position: absolute;
+  top: 57%;
+  left: 55%;
+  color: green; }
+
+.threeWu {
+  width: 40%;
+  height: 10%;
+  position: absolute;
+  top: 85%;
+  left: 10%;
+  color: green; }
+
+.pageFour {
+  background: url("img/5.jpg") no-repeat center;
+  background-size: cover; }
+
+.FourOne {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 25%;
+  left: 40%;
+  transform: skewX(10deg);
+  border-radius: 10%;
+  transform: rotate(40deg);
+  background: url("img/ps.gif");
+  background-size: 100% 100%; }
+
+.FourTwo {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 35%;
+  left: 10%;
+  transform: skewX(10deg);
+  background: url("img/css.gif");
+  border-radius: 10%;
+  transform: rotate(40deg);
+  background-size: 100% 100%; }
+
+.FourSan {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 35%;
+  left: 63%;
+  transform: skewX(10deg);
+  background: url("img/html.gif");
+  border-radius: 10%;
+  transform: rotate(40deg);
+  background-size: 100% 100%; }
+
+.FourSi {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 50%;
+  left: 36%;
+  transform: skewX(10deg);
+  background: url("img/js.gif");
+  border-radius: 10%;
+  transform: rotate(40deg);
+  background-size: 100% 100%; }
+
+.FourWu {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 10%;
+  left: 56%;
+  border-radius: 10%;
+  background: url("img/jq.gif");
+  border-radius: 10%;
+  background-size: 100% 100%; }
+
+.FourLiu {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 80%;
+  left: 66%;
+  border-radius: 10%;
+  background: url("img/ajax.gif");
+  border-radius: 10%;
+  background-size: 100% 100%;
+  transform: skewX(10deg); }
+
+.FourBa {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 70%;
+  left: 6%;
+  border-radius: 10%;
+  background: url("img/angular.gif");
+  border-radius: 10%;
+  background-size: 100% 100%;
+  transform: skewX(10deg); }
+
+.FourQi {
+  position: absolute;
+  color: paleturquoise;
+  top: 10%;
+  left: 5%;
+  font-size: 30px; }
+
+.FourJiu {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 60%;
+  left: 55%;
+  border-radius: 10%;
+  background: url("img/bootstrp.gif");
+  border-radius: 10%;
+  background-size: 100% 100%; }
+
+.FourShi {
+  position: absolute;
+  width: 20%;
+  height: 10%;
+  top: 85%;
+  left: 15%;
+  border-radius: 10%;
+  background: url("img/node.gif");
+  border-radius: 10%;
+  background-size: 100% 100%; }
+
+.pageFive {
+  background: url("img/5.jpg") no-repeat center;
+  background-size: cover; }
+
+.pageThree img {
+  width: 90%;
+  height: 90%;
+  position: absolute;
+  top: 10%;
+  left: 5%; }
+
+.pageQi {
+  background: url("img/7.jpg") no-repeat center;
+  background-size: cover; }
+
+.pageFiveY {
+  position: absolute;
+  width: 60%;
+  height: 30%;
+  top: 70%;
+  left: 30%; }
+
+.pageFiveE {
+  position: absolute;
+  width: 40%;
+  height: 25%;
+  top: 10%;
+  left: 10%; }
+
+.pageFiveS {
+  position: absolute;
+  top: 16%;
+  left: 55%;
+  font-size: 20px; }
+
+.pageFiveW {
+  position: absolute;
+  top: 40%;
+  left: 5%;
+  font-size: 20px; }
+
+.pageFiveL {
+  position: absolute;
+  top: 35%;
+  left: 47%; }
+
+/*# sourceMappingURL=style.css.map */
